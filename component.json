@@ -1,0 +1,5 @@
+{
+  "name": "overthrow",
+  "version": "0.1.0-mr",
+  "main": "./overthrow.js"
+}
